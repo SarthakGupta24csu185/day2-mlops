@@ -1,5 +1,4 @@
-name: Mlops Day2 CI 
-
+name : MLOps Day 2 CI
 on:
   push:
     branches:
